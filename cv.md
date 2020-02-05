@@ -13,7 +13,7 @@
 - Technoogies: HTML, CSS, Javascript, Websocket, node.js
 - CSS: Bootstrap, MaterialUI
 - Bundler: Webpack
-- Frameworks: React, Angular, express, kod, nestjs
+- Frameworks: React, Angular, express, koajs, nestjs
 - Databases: mongo, postgre
 - Graphics: Photoshop, Figma
 
